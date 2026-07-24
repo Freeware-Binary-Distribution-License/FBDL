@@ -10,6 +10,10 @@ The intended licensing model is:
 - Modification prohibited
 - Reverse engineering prohibited
 
+Links for reference
+- Full text version: [fbdl-1-0.txt](https://github.com/Freeware-Binary-Distribution-License/FBDL/blob/main/fbdl-1-0.txt) 
+- Markdown version: [fbdl-1-0.md](https://github.com/Freeware-Binary-Distribution-License/FBDL/blob/main/fbdl-1-0.md)
+
 
 ## Terms
 
